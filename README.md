@@ -1,6 +1,6 @@
 <img alt="boost-histogram logo" width="402" src="https://raw.githubusercontent.com/scikit-hep/boost-histogram/develop/docs/_images/BoostHistogramPythonLogo.png"/>
 
-# boost-histogram for Python
+# boost-histogram for Python v3
 
 [![Actions Status][actions-badge]][actions-link]
 [![Documentation Status][rtd-badge]][rtd-link]
